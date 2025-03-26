@@ -14,19 +14,20 @@ class Estate(Property):
         super().__init__(locality)
         self.estate_type = estate_type
         self.area = area
+
     def calculate_tax(self):
-        if self.estate_type == 'land':
-            return math.ceil(self.area * 0.85 * self.locality.locality_coefficient)
-        elif self.estate_type == 'building_site':
-            return math.ceil(self.area * 9 * self.locality.locality_coefficient)
-        elif self.estate_type == 'forrest':
-            return math.ceil(self.area * 0.35 * self.locality.locality_coefficient)
-        elif self.estate_type == 'garden':
-            return math.ceil(self.area * 2 * self.locality.locality_coefficient)
-        else:
-            raise ValueError('Neplatný typ pozemku')
+        type_estate = {
+    'land': 0.85,
+    'building_site': 9,
+    'forrest': 0.35,
+    'garden': 2,
+    }
+        type_coefficient = type_estate.get(self.estate_type)
+        tax = math.ceil(self.area * self.locality.locality_coefficient * type_coefficient)
+        return tax
+    
     def __str__(self):
-       return f'Pozemek v lokalitě {self.locality.name} má koeficient {self.area}.'
+       return f'Pozemek v lokalitě {self.locality.name} má koeficient {self.locality.locality_coefficient}.'
 
        
 locality = Locality('Les', 0.8)
@@ -39,7 +40,7 @@ class Residence(Property):
         self.area = area
         self.commercial = commercial
     def calculate_tax(self):
-        if self.commercial == True:
+        if self.commercial:
             return self.area * self.locality.locality_coefficient * 15 * 2
         else:
             return self.area * self.locality.locality_coefficient * 15
