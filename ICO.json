@@ -1,0 +1,140 @@
+{
+  "ico": "61388696",
+  "obchodniJmeno": "Junák - český skaut, středisko 24 Sever Praha, z. s.",
+  "sidlo": {
+    "kodStatu": "CZ",
+    "nazevStatu": "Česká republika",
+    "kodKraje": 19,
+    "nazevKraje": "Hlavní město Praha",
+    "kodOkresu": 3100,
+    "kodObce": 554782,
+    "nazevObce": "Praha",
+    "kodMestskehoObvodu": 86,
+    "nazevMestskehoObvodu": "Praha 8",
+    "kodMestskeCastiObvodu": 500208,
+    "kodUlice": 477737,
+    "nazevMestskeCastiObvodu": "Praha 8",
+    "nazevUlice": "Větrušická",
+    "cisloDomovni": 842,
+    "kodCastiObce": 400611,
+    "cisloOrientacni": 23,
+    "nazevCastiObce": "Kobylisy",
+    "kodAdresnihoMista": 22704736,
+    "psc": 18200,
+    "textovaAdresa": "Větrušická 842/23, Kobylisy, 18200 Praha 8",
+    "standardizaceAdresy": true,
+    "typCisloDomovni": 1
+  },
+  "pravniForma": "736",
+  "financniUrad": "008",
+  "datumVzniku": "1994-12-14",
+  "datumAktualizace": "2025-01-12",
+  "icoId": "61388696",
+  "adresaDorucovaci": {
+    "radekAdresy1": "Větrušická 842/23",
+    "radekAdresy2": "Kobylisy",
+    "radekAdresy3": "18200 Praha 8"
+  },
+  "seznamRegistraci": {
+    "stavZdrojeVr": "AKTIVNI",
+    "stavZdrojeRes": "AKTIVNI",
+    "stavZdrojeRzp": "NEEXISTUJICI",
+    "stavZdrojeNrpzs": "NEEXISTUJICI",
+    "stavZdrojeRpsh": "NEEXISTUJICI",
+    "stavZdrojeRcns": "NEEXISTUJICI",
+    "stavZdrojeSzr": "NEEXISTUJICI",
+    "stavZdrojeDph": "NEEXISTUJICI",
+    "stavZdrojeSd": "NEEXISTUJICI",
+    "stavZdrojeIr": "NEEXISTUJICI",
+    "stavZdrojeCeu": "NEEXISTUJICI",
+    "stavZdrojeRs": "NEEXISTUJICI",
+    "stavZdrojeRed": "NEEXISTUJICI",
+    "stavZdrojeMonitor": "NEEXISTUJICI"
+  },
+  "primarniZdroj": "vr",
+  "dalsiUdaje": [
+    {
+      "obchodniJmeno": [
+        {
+          "obchodniJmeno": "Junák - český skaut, středisko 24 Sever Praha, z. s.",
+          "primarniZaznam": true
+        }
+      ],
+      "sidlo": [
+        {
+          "sidlo": {
+            "kodStatu": "CZ",
+            "nazevStatu": "Česká republika",
+            "kodKraje": 19,
+            "nazevKraje": "Hlavní město Praha",
+            "kodObce": 554782,
+            "nazevObce": "Praha",
+            "kodSpravnihoObvodu": 86,
+            "nazevSpravnihoObvodu": "Praha 8",
+            "kodMestskehoObvodu": 86,
+            "nazevMestskehoObvodu": "Praha 8",
+            "kodMestskeCastiObvodu": 500208,
+            "kodUlice": 477737,
+            "nazevMestskeCastiObvodu": "Praha 8",
+            "nazevUlice": "Větrušická",
+            "cisloDomovni": 842,
+            "kodCastiObce": 400611,
+            "cisloOrientacni": 23,
+            "nazevCastiObce": "Kobylisy",
+            "kodAdresnihoMista": 22704736,
+            "psc": 18200,
+            "textovaAdresa": "Větrušická 842/23, Kobylisy, 18200 Praha 8",
+            "standardizaceAdresy": true,
+            "typCisloDomovni": 1
+          },
+          "primarniZaznam": true
+        }
+      ],
+      "pravniForma": "736",
+      "datovyZdroj": "res"
+    },
+    {
+      "obchodniJmeno": [
+        {
+          "obchodniJmeno": "Junák - český skaut, středisko 24 Sever Praha, z. s.",
+          "primarniZaznam": true
+        }
+      ],
+      "sidlo": [
+        {
+          "sidlo": {
+            "kodStatu": "CZ",
+            "nazevStatu": "Česká republika",
+            "kodKraje": 19,
+            "nazevKraje": "Hlavní město Praha",
+            "kodOkresu": 3100,
+            "kodObce": 554782,
+            "nazevObce": "Praha",
+            "kodMestskehoObvodu": 86,
+            "nazevMestskehoObvodu": "Praha 8",
+            "kodMestskeCastiObvodu": 500208,
+            "kodUlice": 477737,
+            "nazevMestskeCastiObvodu": "Praha 8",
+            "nazevUlice": "Větrušická",
+            "cisloDomovni": 842,
+            "kodCastiObce": 400611,
+            "cisloOrientacni": 23,
+            "nazevCastiObce": "Kobylisy",
+            "kodAdresnihoMista": 22704736,
+            "psc": 18200,
+            "textovaAdresa": "Větrušická 842/23, Kobylisy, 18200 Praha 8",
+            "standardizaceAdresy": true,
+            "typCisloDomovni": 1
+          },
+          "primarniZaznam": true
+        }
+      ],
+      "pravniForma": "736",
+      "spisovaZnacka": "L 38690/MSPH",
+      "datovyZdroj": "vr"
+    }
+  ],
+  "czNace": [
+    "94991"
+  ]
+}

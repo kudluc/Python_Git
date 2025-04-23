@@ -1,0 +1,1723 @@
+{
+  "pocetCelkem": 13,
+  "ekonomickeSubjekty": [
+    {
+      "ico": "00267830",
+      "obchodniJmeno": "Obec Lučice",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 108,
+        "nazevKraje": "Kraj Vysočina",
+        "kodOkresu": 3601,
+        "nazevOkresu": "Havlíčkův Brod",
+        "kodObce": 569062,
+        "nazevObce": "Lučice",
+        "cisloDomovni": 90,
+        "kodCastiObce": 88285,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 9461647,
+        "psc": 58235,
+        "textovaAdresa": "č.p. 90, 58235 Lučice",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "801",
+      "financniUrad": "223",
+      "datumVzniku": "1973-07-01",
+      "datumAktualizace": "2025-04-02",
+      "dic": "CZ00267830",
+      "icoId": "00267830",
+      "adresaDorucovaci": {
+        "radekAdresy1": "č.p. 90",
+        "radekAdresy2": "58235 Lučice"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "NEEXISTUJICI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "AKTIVNI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "AKTIVNI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "AKTIVNI",
+        "stavZdrojeMonitor": "AKTIVNI"
+      },
+      "primarniZdroj": "res",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Obec Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 90,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461647,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 90, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "801",
+          "datovyZdroj": "res"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Obec Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 90,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461647,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 90, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "801",
+          "datovyZdroj": "rzp"
+        }
+      ],
+      "czNace": [
+        "56100",
+        "84110"
+      ],
+      "subRegistrSzr": "szr"
+    },
+    {
+      "ico": "15060501",
+      "obchodniJmeno": "Římskokatolická farnost Lučice",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 108,
+        "nazevKraje": "Kraj Vysočina",
+        "kodOkresu": 3601,
+        "nazevOkresu": "Havlíčkův Brod",
+        "kodObce": 569062,
+        "nazevObce": "Lučice",
+        "cisloDomovni": 40,
+        "kodCastiObce": 88285,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 9461141,
+        "psc": 58235,
+        "textovaAdresa": "č.p. 40, 58235 Lučice",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "722",
+      "financniUrad": "223",
+      "datumVzniku": "1994-07-01",
+      "datumAktualizace": "2024-08-09",
+      "icoId": "15060501",
+      "adresaDorucovaci": {
+        "radekAdresy1": "č.p. 40",
+        "radekAdresy2": "58235 Lučice"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "NEEXISTUJICI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "NEEXISTUJICI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "AKTIVNI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "AKTIVNI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "rcns",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Římskokatolická farnost Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 40,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461141,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 40, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "722",
+          "datovyZdroj": "rcns"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Římskokatolická farnost Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 40,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461141,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 40, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "722",
+          "datovyZdroj": "res"
+        }
+      ],
+      "czNace": [
+        "94910"
+      ]
+    },
+    {
+      "ico": "25939050",
+      "obchodniJmeno": "Zemědělská a.s. Lučice",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 19,
+        "nazevKraje": "Hlavní město Praha",
+        "kodObce": 554782,
+        "nazevObce": "Praha",
+        "kodSpravnihoObvodu": 51,
+        "nazevSpravnihoObvodu": "Praha 5",
+        "kodMestskehoObvodu": 51,
+        "nazevMestskehoObvodu": "Praha 5",
+        "kodMestskeCastiObvodu": 500143,
+        "kodUlice": 458899,
+        "nazevMestskeCastiObvodu": "Praha 5",
+        "nazevUlice": "Na Popelce",
+        "cisloDomovni": 3187,
+        "kodCastiObce": 400301,
+        "cisloOrientacni": 12,
+        "cisloOrientacniPismeno": "a",
+        "nazevCastiObce": "Smíchov",
+        "kodAdresnihoMista": 25829459,
+        "psc": 15000,
+        "textovaAdresa": "Na Popelce 3187/12a, Smíchov, 15000 Praha 5",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "121",
+      "financniUrad": "005",
+      "datumVzniku": "2000-06-08",
+      "datumAktualizace": "2024-06-14",
+      "dic": "CZ25939050",
+      "icoId": "25939050",
+      "adresaDorucovaci": {
+        "radekAdresy1": "Na Popelce 3187/12a",
+        "radekAdresy2": "Smíchov",
+        "radekAdresy3": "15000 Praha 5"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "AKTIVNI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "AKTIVNI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "AKTIVNI",
+        "stavZdrojeDph": "AKTIVNI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "AKTIVNI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "vr",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Zemědělská a.s. Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodObce": 554782,
+                "nazevObce": "Praha",
+                "kodSpravnihoObvodu": 51,
+                "nazevSpravnihoObvodu": "Praha 5",
+                "kodMestskehoObvodu": 51,
+                "nazevMestskehoObvodu": "Praha 5",
+                "kodMestskeCastiObvodu": 500143,
+                "kodUlice": 458899,
+                "nazevMestskeCastiObvodu": "Praha 5",
+                "nazevUlice": "Na Popelce",
+                "cisloDomovni": 3187,
+                "kodCastiObce": 400301,
+                "cisloOrientacni": 12,
+                "cisloOrientacniPismeno": "a",
+                "nazevCastiObce": "Smíchov",
+                "kodAdresnihoMista": 25829459,
+                "psc": 15000,
+                "textovaAdresa": "Na Popelce 3187/12a, Smíchov, 15000 Praha 5",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "121",
+          "datovyZdroj": "res"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Zemědělská a.s. Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 19,
+                "nazevKraje": "Hlavní město Praha",
+                "kodObce": 554782,
+                "nazevObce": "Praha",
+                "kodSpravnihoObvodu": 51,
+                "nazevSpravnihoObvodu": "Praha 5",
+                "kodMestskehoObvodu": 51,
+                "nazevMestskehoObvodu": "Praha 5",
+                "kodMestskeCastiObvodu": 500143,
+                "kodUlice": 458899,
+                "nazevMestskeCastiObvodu": "Praha 5",
+                "nazevUlice": "Na Popelce",
+                "cisloDomovni": 3187,
+                "kodCastiObce": 400301,
+                "cisloOrientacni": 12,
+                "cisloOrientacniPismeno": "a",
+                "nazevCastiObce": "Smíchov",
+                "kodAdresnihoMista": 25829459,
+                "psc": 15000,
+                "textovaAdresa": "Na Popelce 3187/12a, Smíchov, 15000 Praha 5",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "121",
+          "datovyZdroj": "rzp"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Zemědělská a.s. Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 19,
+                "nazevKraje": "Hlavní město Praha",
+                "kodObce": 554782,
+                "nazevObce": "Praha",
+                "kodSpravnihoObvodu": 51,
+                "nazevSpravnihoObvodu": "Praha 5",
+                "kodMestskehoObvodu": 51,
+                "nazevMestskehoObvodu": "Praha 5",
+                "kodMestskeCastiObvodu": 500143,
+                "kodUlice": 458899,
+                "nazevMestskeCastiObvodu": "Praha 5",
+                "nazevUlice": "Na Popelce",
+                "cisloDomovni": 3187,
+                "kodCastiObce": 400301,
+                "cisloOrientacni": 12,
+                "cisloOrientacniPismeno": "a",
+                "nazevCastiObce": "Smíchov",
+                "kodAdresnihoMista": 25829459,
+                "psc": 15000,
+                "textovaAdresa": "Na Popelce 3187/12a, Smíchov, 15000 Praha 5",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "121",
+          "datovyZdroj": "szr"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Zemědělská a.s. Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 19,
+                "nazevKraje": "Hlavní město Praha",
+                "kodObce": 554782,
+                "nazevObce": "Praha",
+                "kodSpravnihoObvodu": 51,
+                "nazevSpravnihoObvodu": "Praha 5",
+                "kodMestskehoObvodu": 51,
+                "nazevMestskehoObvodu": "Praha 5",
+                "kodMestskeCastiObvodu": 500143,
+                "kodUlice": 458899,
+                "nazevMestskeCastiObvodu": "Praha 5",
+                "nazevUlice": "Na Popelce",
+                "cisloDomovni": 3187,
+                "kodCastiObce": 400301,
+                "cisloOrientacni": 12,
+                "cisloOrientacniPismeno": "a",
+                "nazevCastiObce": "Smíchov",
+                "kodAdresnihoMista": 25829459,
+                "psc": 15000,
+                "textovaAdresa": "Na Popelce 3187/12a, Smíchov, 15000 Praha 5",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "121",
+          "spisovaZnacka": "B 17885/MSPH",
+          "datovyZdroj": "vr"
+        }
+      ],
+      "czNace": [
+        "011",
+        "01500",
+        "16290",
+        "25",
+        "256",
+        "28300",
+        "331",
+        "3511",
+        "353",
+        "46900",
+        "47789",
+        "49410",
+        "6820",
+        "70220",
+        "G"
+      ],
+      "subRegistrSzr": "ezp"
+    },
+    {
+      "ico": "27529789",
+      "obchodniJmeno": "Společenství vlastníků pro dům Lučice 194",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 108,
+        "nazevKraje": "Kraj Vysočina",
+        "kodOkresu": 3601,
+        "nazevOkresu": "Havlíčkův Brod",
+        "kodObce": 569062,
+        "nazevObce": "Lučice",
+        "cisloDomovni": 194,
+        "kodCastiObce": 88285,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 9462686,
+        "psc": 58235,
+        "textovaAdresa": "č.p. 194, 58235 Lučice",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "145",
+      "financniUrad": "223",
+      "datumVzniku": "2007-10-01",
+      "datumAktualizace": "2023-08-10",
+      "icoId": "27529789",
+      "adresaDorucovaci": {
+        "radekAdresy1": "č.p. 194",
+        "radekAdresy2": "58235 Lučice"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "AKTIVNI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "NEEXISTUJICI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "NEEXISTUJICI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "vr",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Společenství vlastníků pro dům Lučice 194",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 194,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9462686,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 194, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "145",
+          "datovyZdroj": "res"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Společenství vlastníků pro dům Lučice 194",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 194,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9462686,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 194, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "145",
+          "spisovaZnacka": "S 4015/KSHK",
+          "datovyZdroj": "vr"
+        }
+      ],
+      "czNace": [
+        "6820"
+      ]
+    },
+    {
+      "ico": "46483756",
+      "obchodniJmeno": "Tělovýchovná jednota Sokol Lučice",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 108,
+        "nazevKraje": "Kraj Vysočina",
+        "kodOkresu": 3601,
+        "nazevOkresu": "Havlíčkův Brod",
+        "kodObce": 569062,
+        "nazevObce": "Lučice",
+        "cisloDomovni": 90,
+        "kodCastiObce": 88285,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 9461647,
+        "psc": 58235,
+        "textovaAdresa": "č.p. 90, 58235 Lučice",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "706",
+      "financniUrad": "223",
+      "datumVzniku": "1993-01-20",
+      "datumAktualizace": "2023-08-10",
+      "icoId": "46483756",
+      "adresaDorucovaci": {
+        "radekAdresy1": "č.p. 90",
+        "radekAdresy2": "58235 Lučice"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "AKTIVNI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "HISTORICKY",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "NEEXISTUJICI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "vr",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Tělovýchovná jednota Sokol Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 90,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461647,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 90, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "706",
+          "datovyZdroj": "res"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Tělovýchovná jednota Sokol Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 90,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461647,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 90, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "706",
+          "spisovaZnacka": "L 9234/KSHK",
+          "datovyZdroj": "vr"
+        }
+      ],
+      "czNace": [
+        "93110"
+      ],
+      "subRegistrSzr": "szr"
+    },
+    {
+      "ico": "47858516",
+      "obchodniJmeno": "Honební společenstvo Bělotín - Lučice a Polom",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 124,
+        "nazevKraje": "Olomoucký kraj",
+        "kodOkresu": 3808,
+        "nazevOkresu": "Přerov",
+        "kodObce": 512231,
+        "nazevObce": "Bělotín",
+        "cisloDomovni": 23,
+        "kodCastiObce": 2003,
+        "nazevCastiObce": "Bělotín",
+        "kodAdresnihoMista": 11034939,
+        "psc": 75364,
+        "textovaAdresa": "č.p. 23, 75364 Bělotín",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "761",
+      "financniUrad": "394",
+      "datumVzniku": "1992-12-03",
+      "datumAktualizace": "2024-11-20",
+      "icoId": "47858516",
+      "adresaDorucovaci": {
+        "radekAdresy1": "č.p. 23",
+        "radekAdresy2": "75364 Bělotín"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "NEEXISTUJICI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "NEEXISTUJICI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "NEEXISTUJICI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "res",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Honební společenstvo Bělotín - Lučice a Polom",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 124,
+                "nazevKraje": "Olomoucký kraj",
+                "kodOkresu": 3808,
+                "nazevOkresu": "Přerov",
+                "kodObce": 512231,
+                "nazevObce": "Bělotín",
+                "cisloDomovni": 23,
+                "kodCastiObce": 2003,
+                "nazevCastiObce": "Bělotín",
+                "kodAdresnihoMista": 11034939,
+                "psc": 75364,
+                "textovaAdresa": "č.p. 23, 75364 Bělotín",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "761",
+          "datovyZdroj": "res"
+        }
+      ],
+      "czNace": [
+        "01700"
+      ]
+    },
+    {
+      "ico": "60127201",
+      "obchodniJmeno": "TJ KALOKAGÁTHIA Lučice z.s.",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 108,
+        "nazevKraje": "Kraj Vysočina",
+        "kodOkresu": 3601,
+        "nazevOkresu": "Havlíčkův Brod",
+        "kodObce": 569062,
+        "nazevObce": "Lučice",
+        "cisloDomovni": 90,
+        "kodCastiObce": 88285,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 9461647,
+        "psc": 58235,
+        "textovaAdresa": "č.p. 90, 58235 Lučice",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "706",
+      "financniUrad": "223",
+      "datumVzniku": "1995-02-27",
+      "datumAktualizace": "2024-11-21",
+      "icoId": "60127201",
+      "adresaDorucovaci": {
+        "radekAdresy1": "č.p. 90",
+        "radekAdresy2": "58235 Lučice"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "AKTIVNI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "NEEXISTUJICI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "NEEXISTUJICI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "vr",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "TJ KALOKAGÁTHIA Lučice z.s.",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 90,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461647,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 90, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "706",
+          "datovyZdroj": "res"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "TJ KALOKAGÁTHIA Lučice z.s.",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 90,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461647,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 90, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "706",
+          "spisovaZnacka": "L 9303/KSHK",
+          "datovyZdroj": "vr"
+        }
+      ],
+      "czNace": [
+        "931"
+      ]
+    },
+    {
+      "ico": "60128771",
+      "obchodniJmeno": "SH ČMS - Sbor dobrovolných hasičů Lučice",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 108,
+        "nazevKraje": "Kraj Vysočina",
+        "kodOkresu": 3601,
+        "nazevOkresu": "Havlíčkův Brod",
+        "kodObce": 569062,
+        "nazevObce": "Lučice",
+        "cisloDomovni": 171,
+        "kodCastiObce": 88285,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 9462457,
+        "psc": 58235,
+        "textovaAdresa": "č.p. 171, 58235 Lučice",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "736",
+      "financniUrad": "223",
+      "datumVzniku": "1996-01-01",
+      "datumAktualizace": "2023-11-01",
+      "icoId": "60128771",
+      "adresaDorucovaci": {
+        "radekAdresy1": "č.p. 171",
+        "radekAdresy2": "58235 Lučice"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "AKTIVNI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "AKTIVNI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "AKTIVNI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "vr",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "SH ČMS - Sbor dobrovolných hasičů Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 171,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9462457,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 171, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "736",
+          "datovyZdroj": "res"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "SH ČMS - Sbor dobrovolných hasičů Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 171,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9462457,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 171, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "736",
+          "datovyZdroj": "rzp"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "SH ČMS - Sbor dobrovolných hasičů Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 171,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9462457,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 171, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "736",
+          "spisovaZnacka": "L 34299/MSPH",
+          "datovyZdroj": "vr"
+        }
+      ],
+      "czNace": [
+        "00",
+        "4725",
+        "561",
+        "84250"
+      ]
+    },
+    {
+      "ico": "64807533",
+      "obchodniJmeno": "SH ČMS - Sbor dobrovolných hasičů Lučice",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 86,
+        "nazevKraje": "Královéhradecký kraj",
+        "kodOkresu": 3602,
+        "nazevOkresu": "Hradec Králové",
+        "kodObce": 570109,
+        "nazevObce": "Chlumec nad Cidlinou",
+        "cisloDomovni": 42,
+        "kodCastiObce": 88293,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 15769569,
+        "psc": 50351,
+        "textovaAdresa": "Lučice 42, 50351 Chlumec nad Cidlinou",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "736",
+      "financniUrad": "228",
+      "datumVzniku": "1995-03-02",
+      "datumAktualizace": "2025-04-01",
+      "icoId": "64807533",
+      "adresaDorucovaci": {
+        "radekAdresy1": "Lučice 42\n50351 Chlumec nad Cidlinou"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "AKTIVNI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "NEEXISTUJICI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "NEEXISTUJICI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "vr",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "SH ČMS - Sbor dobrovolných hasičů Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 86,
+                "nazevKraje": "Královéhradecký kraj",
+                "kodOkresu": 3602,
+                "nazevOkresu": "Hradec Králové",
+                "kodObce": 570109,
+                "nazevObce": "Chlumec nad Cidlinou",
+                "cisloDomovni": 42,
+                "kodCastiObce": 88293,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 15769569,
+                "psc": 50351,
+                "textovaAdresa": "Lučice 42, 50351 Chlumec nad Cidlinou",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "736",
+          "datovyZdroj": "res"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "SH ČMS - Sbor dobrovolných hasičů Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 86,
+                "nazevKraje": "Královéhradecký kraj",
+                "kodOkresu": 3602,
+                "nazevOkresu": "Hradec Králové",
+                "kodObce": 570109,
+                "nazevObce": "Chlumec nad Cidlinou",
+                "cisloDomovni": 42,
+                "kodCastiObce": 88293,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 15769569,
+                "psc": 50351,
+                "textovaAdresa": "Lučice 42, 50351 Chlumec nad Cidlinou",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "736",
+          "spisovaZnacka": "L 31818/MSPH",
+          "datovyZdroj": "vr"
+        }
+      ],
+      "czNace": [
+        "84250"
+      ]
+    },
+    {
+      "ico": "70980713",
+      "obchodniJmeno": "Honební společenstvo Lučice",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 108,
+        "nazevKraje": "Kraj Vysočina",
+        "kodOkresu": 3601,
+        "nazevOkresu": "Havlíčkův Brod",
+        "kodObce": 569062,
+        "nazevObce": "Lučice",
+        "cisloDomovni": 206,
+        "kodCastiObce": 88285,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 9462805,
+        "psc": 58235,
+        "textovaAdresa": "č.p. 206, 58235 Lučice",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "761",
+      "financniUrad": "223",
+      "datumVzniku": "2002-08-01",
+      "datumAktualizace": "2024-05-04",
+      "icoId": "70980713",
+      "adresaDorucovaci": {
+        "radekAdresy1": "č.p. 206",
+        "radekAdresy2": "58235 Lučice"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "NEEXISTUJICI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "NEEXISTUJICI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "NEEXISTUJICI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "res",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Honební společenstvo Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 206,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9462805,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 206, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "761",
+          "datovyZdroj": "res"
+        }
+      ],
+      "czNace": [
+        "01700"
+      ]
+    },
+    {
+      "ico": "70985146",
+      "obchodniJmeno": "Základní škola a mateřská škola Lučice",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 108,
+        "nazevKraje": "Kraj Vysočina",
+        "kodOkresu": 3601,
+        "nazevOkresu": "Havlíčkův Brod",
+        "kodObce": 569062,
+        "nazevObce": "Lučice",
+        "cisloDomovni": 61,
+        "kodCastiObce": 88285,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 9461353,
+        "psc": 58235,
+        "textovaAdresa": "č.p. 61, 58235 Lučice",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "331",
+      "financniUrad": "223",
+      "datumVzniku": "2006-10-10",
+      "datumAktualizace": "2025-02-03",
+      "icoId": "70985146",
+      "adresaDorucovaci": {
+        "radekAdresy1": "č.p. 61",
+        "radekAdresy2": "58235 Lučice"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "AKTIVNI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "AKTIVNI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "AKTIVNI",
+        "stavZdrojeRed": "AKTIVNI",
+        "stavZdrojeMonitor": "AKTIVNI"
+      },
+      "primarniZdroj": "vr",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Základní škola a mateřská škola Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 61,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461353,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 61, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "331",
+          "datovyZdroj": "res"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Základní škola a mateřská škola Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 61,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461353,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 61, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "331",
+          "datovyZdroj": "rs"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Základní škola a mateřská škola Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 61,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461353,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 61, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "331",
+          "datovyZdroj": "rzp"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Základní škola a mateřská škola Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 61,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9461353,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 61, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "331",
+          "spisovaZnacka": "Pr 989/KSHK",
+          "datovyZdroj": "vr"
+        }
+      ],
+      "czNace": [
+        "56100",
+        "85311"
+      ]
+    },
+    {
+      "ico": "75070596",
+      "obchodniJmeno": "Základní organizace Českého zahrádkářského svazu Lučice",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 124,
+        "nazevKraje": "Olomoucký kraj",
+        "kodOkresu": 3808,
+        "nazevOkresu": "Přerov",
+        "kodObce": 512231,
+        "nazevObce": "Bělotín",
+        "cisloDomovni": 43,
+        "kodCastiObce": 88307,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 26339978,
+        "psc": 75364,
+        "textovaAdresa": "Lučice 43, 75364 Bělotín",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "736",
+      "financniUrad": "394",
+      "datumVzniku": "2006-01-07",
+      "datumAktualizace": "2023-08-10",
+      "icoId": "75070596",
+      "adresaDorucovaci": {
+        "radekAdresy1": "Lučice 43",
+        "radekAdresy2": "75364 Bělotín"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "AKTIVNI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "NEEXISTUJICI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "NEEXISTUJICI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "vr",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Základní organizace Českého zahrádkářského svazu Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 124,
+                "nazevKraje": "Olomoucký kraj",
+                "kodOkresu": 3808,
+                "nazevOkresu": "Přerov",
+                "kodObce": 512231,
+                "nazevObce": "Bělotín",
+                "cisloDomovni": 43,
+                "kodCastiObce": 88307,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 26339978,
+                "psc": 75364,
+                "textovaAdresa": "Lučice 43, 75364 Bělotín",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "736",
+          "datovyZdroj": "res"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Základní organizace Českého zahrádkářského svazu Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 124,
+                "nazevKraje": "Olomoucký kraj",
+                "kodOkresu": 3808,
+                "nazevOkresu": "Přerov",
+                "kodObce": 512231,
+                "nazevObce": "Bělotín",
+                "cisloDomovni": 43,
+                "kodCastiObce": 88307,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 26339978,
+                "psc": 75364,
+                "textovaAdresa": "Lučice 43, 75364 Bělotín",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "736",
+          "spisovaZnacka": "L 46294/MSPH",
+          "datovyZdroj": "vr"
+        }
+      ],
+      "czNace": [
+        "94993"
+      ]
+    },
+    {
+      "ico": "75092158",
+      "obchodniJmeno": "Myslivecký spolek Lučice, 582 35 Lučice",
+      "sidlo": {
+        "kodStatu": "CZ",
+        "nazevStatu": "Česká republika",
+        "kodKraje": 108,
+        "nazevKraje": "Kraj Vysočina",
+        "kodOkresu": 3601,
+        "nazevOkresu": "Havlíčkův Brod",
+        "kodObce": 569062,
+        "nazevObce": "Lučice",
+        "cisloDomovni": 206,
+        "kodCastiObce": 88285,
+        "nazevCastiObce": "Lučice",
+        "kodAdresnihoMista": 9462805,
+        "psc": 58235,
+        "textovaAdresa": "č.p. 206, 58235 Lučice",
+        "standardizaceAdresy": true,
+        "typCisloDomovni": 1
+      },
+      "pravniForma": "706",
+      "financniUrad": "223",
+      "datumVzniku": "1993-03-11",
+      "datumAktualizace": "2024-03-07",
+      "icoId": "75092158",
+      "adresaDorucovaci": {
+        "radekAdresy1": "č.p. 206",
+        "radekAdresy2": "58235 Lučice"
+      },
+      "seznamRegistraci": {
+        "stavZdrojeVr": "AKTIVNI",
+        "stavZdrojeRes": "AKTIVNI",
+        "stavZdrojeRzp": "NEEXISTUJICI",
+        "stavZdrojeNrpzs": "NEEXISTUJICI",
+        "stavZdrojeRpsh": "NEEXISTUJICI",
+        "stavZdrojeRcns": "NEEXISTUJICI",
+        "stavZdrojeSzr": "NEEXISTUJICI",
+        "stavZdrojeDph": "NEEXISTUJICI",
+        "stavZdrojeSd": "NEEXISTUJICI",
+        "stavZdrojeIr": "NEEXISTUJICI",
+        "stavZdrojeCeu": "NEEXISTUJICI",
+        "stavZdrojeRs": "NEEXISTUJICI",
+        "stavZdrojeRed": "AKTIVNI",
+        "stavZdrojeMonitor": "NEEXISTUJICI"
+      },
+      "primarniZdroj": "vr",
+      "dalsiUdaje": [
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Myslivecký spolek Lučice, 582 35 Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 206,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9462805,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 206, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "706",
+          "datovyZdroj": "res"
+        },
+        {
+          "obchodniJmeno": [
+            {
+              "obchodniJmeno": "Myslivecký spolek Lučice, 582 35 Lučice",
+              "primarniZaznam": true
+            }
+          ],
+          "sidlo": [
+            {
+              "sidlo": {
+                "kodStatu": "CZ",
+                "nazevStatu": "Česká republika",
+                "kodKraje": 108,
+                "nazevKraje": "Kraj Vysočina",
+                "kodOkresu": 3601,
+                "nazevOkresu": "Havlíčkův Brod",
+                "kodObce": 569062,
+                "nazevObce": "Lučice",
+                "cisloDomovni": 206,
+                "kodCastiObce": 88285,
+                "nazevCastiObce": "Lučice",
+                "kodAdresnihoMista": 9462805,
+                "psc": 58235,
+                "textovaAdresa": "č.p. 206, 58235 Lučice",
+                "standardizaceAdresy": true,
+                "typCisloDomovni": 1
+              },
+              "primarniZaznam": true
+            }
+          ],
+          "pravniForma": "706",
+          "spisovaZnacka": "L 9247/KSHK",
+          "datovyZdroj": "vr"
+        }
+      ],
+      "czNace": [
+        "01700"
+      ],
+      "subRegistrSzr": "szr"
+    }
+  ]
+}
