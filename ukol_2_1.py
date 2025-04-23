@@ -8,6 +8,8 @@ data = response.json()
 
 informace_z_OR = data.get('ekonomickeSubjekty', {})
 
-  
-jmeno_subjektu = data.get('obchodniJmeno', 'Neznámý subjekt')
-adresa_subjektu = data.get('sidlo', {}).get('textovaAdresa', 'Neznámá adresa')
+jmeno_subjektu = data['obchodniJmeno']
+adresa_subjektu = data['sidlo']['textovaAdresa']
+
+print(jmeno_subjektu)
+print(adresa_subjektu)
